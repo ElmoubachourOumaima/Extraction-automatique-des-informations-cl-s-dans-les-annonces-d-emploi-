@@ -4,7 +4,6 @@ Ce projet a pour objectif de détecter les offres d’emploi frauduleuses à par
 en utilisant des techniques de traitement automatique du langage naturel (NLP)
 et des modèles de machine learning.
 
----
 
 ## Partitionnement du projet
 
