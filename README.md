@@ -145,4 +145,4 @@ en termes de performance et de coût de calcul.
 
 ## Auteur
 Projet académique – INSEA
-
+.
